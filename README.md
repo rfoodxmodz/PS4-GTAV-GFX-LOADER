@@ -10,6 +10,6 @@ The project has a visual studio solution using post build events to build with w
 Optionally you can build with just the linux shell.
 
 # Credits
--_DeathRGH_ - Original Project (MWR) [Twitter](https://twitter.com/DeathRGH). <br>
--_DizzRL_ - Original Project (MWR) [Twitter](https://twitter.com/DizzRL). <br>
+-_DeathRGH_ - <sub>Original Project (MWR)</sub> [Twitter](https://twitter.com/DeathRGH). <br>
+-_DizzRL_ - <sub>Original Project (MWR)</sub> [Twitter](https://twitter.com/DizzRL). <br>
 -_rfoodxmodz_ [Twitter](https://twitter.com/rfoodxmodz). <br>
